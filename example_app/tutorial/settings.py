@@ -1,7 +1,10 @@
 # Django settings for tutorial project.
 
-# DEBUG = True
+DEBUG = True
 
+ALLOWED_HOSTS = [
+    "pacific-wave-27990.herokuapp.com"
+]
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
 )
