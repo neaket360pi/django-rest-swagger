@@ -1,6 +1,6 @@
 # Django settings for tutorial project.
 
-DEBUG = True
+# DEBUG = True
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
